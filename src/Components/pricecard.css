@@ -1,0 +1,26 @@
+.card{
+    margin-top: 5%;
+    border-radius: 1rem;
+    margin-left: 5.5%;
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
+    transform: translate3d(0px, -10px, 0px);
+}
+
+.priceTag h1,
+.priceTag p{
+    display: inline;
+}
+
+.btn{
+    margin-top: 3%;
+    border-radius: 1.5rem;
+    font-size: large;
+    font-weight:600;
+}
+
+.disabled{
+    color:#999FA5;
+}

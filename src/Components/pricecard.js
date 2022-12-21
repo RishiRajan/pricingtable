@@ -1,6 +1,5 @@
 import "./pricecard.css"
 function Pricecard({type}){
-    let featureArray  =[];
     return(
         <div className="card col-lg-3">
             <div className="card-body">
